@@ -1,0 +1,1 @@
+v2.4.1: Fixed a bug where snooze added nine extra minutes of dreams. Known issue: Mondays still won't load before coffee.
